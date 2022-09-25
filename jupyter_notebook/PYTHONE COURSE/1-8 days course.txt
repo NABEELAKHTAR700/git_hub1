@@ -1,0 +1,10 @@
+What is data SCience?
+Basic of data Science.
+Basic of python.
+basic programmic skills operator,logical operator,loops,functions,definations,plots,graphs,matpotlay,numpy,seaborn,
+data visualization,
+data strucure
+markdown language.
+visal studio  importance,
+anaconda,
+jupiter note book
